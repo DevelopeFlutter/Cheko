@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620146299776",
+    "project_id": "checko-f019a",
+    "storage_bucket": "checko-f019a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620146299776:android:7a9d6b3fb2c04a848e6765",
+        "android_client_info": {
+          "package_name": "com.example.cheko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620146299776-opt6qh61d26nbdeavasipc6lqfpv6s14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_K71jMPPNfRwSwZJHrNzFitQ4xz5J5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620146299776-opt6qh61d26nbdeavasipc6lqfpv6s14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
